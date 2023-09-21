@@ -1,0 +1,19 @@
+body{
+    background-image: url('./images/bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.cForm{
+    background-color: rgb(67, 82, 95);
+}   
+
+.main .row{
+
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    box-shadow: 2px 3px 8px 0px #6c8692;
+}
